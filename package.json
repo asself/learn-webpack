@@ -1,0 +1,12 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asself/learn-webpack.git",
+  "author": "asself",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
